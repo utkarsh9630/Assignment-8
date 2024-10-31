@@ -9,4 +9,3 @@ models:
         data_tests:
           - unique
           - not_null
-          - accepted_values
